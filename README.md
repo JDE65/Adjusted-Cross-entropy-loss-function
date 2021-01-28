@@ -1,5 +1,5 @@
 # Adjusted-Cross-entropy-loss-function
-Adjusted CrossEntropy loss function that integrates the distance between the true class and the predicted one
+Adjusted CrossEntropy loss function that integrates a penalty for the distance between the true class and the predicted one
 
 
 The defined function adjust the loss of a multi-class classification NN for the distance between the true class y and the predicted class yhat.
